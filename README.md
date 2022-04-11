@@ -1,4 +1,8 @@
 # RikuNum
+
+![image](https://user-images.githubusercontent.com/103400307/162678058-2a6a26ac-4524-4704-bf5a-d01e0d334b22.png)
+
+
 An easy to use tool to find phone number information
 
 # How to use ?
